@@ -2,123 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27f9080c-1801-46b4-9dab-062973325196" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Rent a car online in Cluj-Napoca – RODNA TRANS RENT A CAR.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rent a car online in Cluj-Napoca – RODNA TRANS RENT A CAR.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/Chart.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/avada-comments.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/avada-contact-form-7.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/avada-drop-down.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/avada-elastic-slider.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/avada-faqs.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/avada-fusion-slider.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/avada-general-footer.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/avada-header.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/avada-menu.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/avada-portfolio.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/avada-quantity.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/avada-scrollspy.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/avada-select.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/avada-sidebars.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/avada-tabs-widget.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/avada-to-top.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/avada-vertical-menu-widget.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/bootstrap.collapse.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/bootstrap.modal.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/bootstrap.popover.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/bootstrap.scrollspy.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/bootstrap.tab.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/bootstrap.tooltip.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/bootstrap.transition.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/cherry-plugin.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/common.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/core.min.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/cssua.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/datepicker.min.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/en_US.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-alert.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-animations.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-blog.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-button.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-carousel.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-chart.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-column-bg-image.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-column.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-container.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-content-boxes.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-countdown.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-counters-box.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-counters-circle.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-equal-heights.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-events.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-flexslider.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-flip-boxes.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-gallery.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-general-global.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-google-map.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-ie1011.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-image-before-after.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-lightbox.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-modal.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-parallax.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-popover.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-progress.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-responsive-typography.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-scroll-to-anchor.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-sharing-box.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-syntax-highlighter.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-tabs.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-testimonials.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-title.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-toggles.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-tooltip.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-video-bg.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-video-general.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-video.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fusion-waypoints.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/greensock.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/imagesLoaded.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/isotope.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery-migrate.min.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.appear.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.carouFredSel.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.countTo.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.countdown.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.cycle.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.easing.1.3.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.easing.min.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.easyPieChart.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.elasticslider.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.elastislide.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.event.move.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.fade.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.fancybox.min.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.fitvids.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.flexslider-min.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.flexslider.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.fusion_maps.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.hoverflow.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.hoverintent.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.ilightbox.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.infinitescroll.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.mousewheel.min.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.placeholder.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.requestAnimationFrame.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.sticky-kit.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.toTop.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.touchSwipe.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery.waypoints.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/layerslider.kreaturamedia.jquery.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/layerslider.transitions.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/modernizr.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/packery.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/scripts.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/stats.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/transposh.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/util.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/vimeoPlayer.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/wp-embed.min.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/wp-emoji-release.min.js.download" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -132,8 +16,8 @@
       <file leaf-file-name="Rent a car online in Cluj-Napoca – RODNA TRANS RENT A CAR.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Rent a car online in Cluj-Napoca – RODNA TRANS RENT A CAR.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="1488" column="9" lean-forward="true" selection-start-line="1488" selection-start-column="9" selection-end-line="1488" selection-end-column="9" />
+            <state relative-caret-position="105">
+              <caret line="469" column="1" lean-forward="true" selection-start-line="469" selection-start-column="1" selection-end-line="469" selection-end-column="1" />
               <folding>
                 <element signature="e#12938#12959#0" expanded="true" />
                 <element signature="e#12988#13009#0" expanded="true" />
@@ -294,6 +178,7 @@
       <find>jquery</find>
       <find>download</find>
       <find>.js.download</find>
+      <find>item-rental-wrapper item-rental-home-page item-rental-new-reservation</find>
     </findStrings>
     <replaceStrings>
       <replace>.js</replace>
@@ -440,12 +325,12 @@
       <option name="presentableId" value="Default" />
       <updated>1526812634309</updated>
       <workItem from="1526812635776" duration="445000" />
-      <workItem from="1526813113475" duration="3527000" />
+      <workItem from="1526813113475" duration="4263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3972000" />
+    <option name="totallyTimeSpent" value="4708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -461,10 +346,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32952693" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26688102" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26688102" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -658,8 +543,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Rent a car online in Cluj-Napoca – RODNA TRANS RENT A CAR.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="1488" column="9" lean-forward="true" selection-start-line="1488" selection-start-column="9" selection-end-line="1488" selection-end-column="9" />
+        <state relative-caret-position="105">
+          <caret line="469" column="1" lean-forward="true" selection-start-line="469" selection-start-column="1" selection-end-line="469" selection-end-column="1" />
           <folding>
             <element signature="e#12938#12959#0" expanded="true" />
             <element signature="e#12988#13009#0" expanded="true" />
